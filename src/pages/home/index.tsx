@@ -29,7 +29,7 @@ import {
 
 export const Home = (): JSX.Element => {
   const gihubUrl = `https://github.com/${userData.githubUser}`;
-  const portfolioUrl = `https://github.com/${userData.githubUser}/meuportfolio`;
+  const portfolioUrl = `https://github.com/${userData.githubUser}/myportfolio`;
 
   return (
     <main id="home">
